@@ -10,10 +10,7 @@ img , alt 47134
 meta , name 46860
 a , class 45167
 input , type 45007
-link , / 44713
-img , / 44120
 input , name 44103
-meta , / 44081
 input , value 43333
 form , action 42986
 span , class 42946
@@ -21,7 +18,6 @@ meta , http-equiv 40960
 div , style 40848
 form , method 39594
 img , width 39567
-input , / 39182
 img , height 38989
 a , target 38735
 li , class 38556
@@ -31,7 +27,6 @@ a , title 36983
 input , class 36531
 a , id 32625
 form , id 31520
-br , / 29425
 img , class 29371
 html , lang 27509
 a , rel 26953
@@ -108,7 +103,6 @@ body , id 7773
 select , onchange 7750
 ul , style 7735
 select , class 7509
-hr , / 7485
 input , tabindex 7459
 input , onblur 7407
 header , class 7381
@@ -178,7 +172,6 @@ a , onmouseover 3325
 td , bgcolor 3324
 link , hreflang 3232
 iframe , name 3170
-base , / 3150
 h1 , itemprop 3149
 a , data-toggle 3146
 iframe , marginwidth 3090
@@ -265,7 +258,6 @@ a , data-show-count 1721
 form , enctype 1713
 a , data-target 1678
 area , alt 1653
-area , / 1642
 input , onkeydown 1633
 button , data-toggle 1626
 tr , id 1622
@@ -363,7 +355,6 @@ input , readonly 931
 table , summary 914
 a , data-widget-id 909
 path , d 904
-param , / 896
 button , aria-hidden 893
 svg , xmlns 891
 svg , viewbox 890
@@ -382,7 +373,6 @@ input , spellcheck 853
 b , style 849
 body , alink 844
 a , property 843
-a , / 840
 input , align 831
 th , scope 830
 div , data-type 825
@@ -408,8 +398,6 @@ textarea , tabindex 739
 div , data-stream 733
 th , style 729
 input , onchange 717
-div , / 713
-path , / 713
 li , role 708
 h2 , itemprop 704
 table , bordercolor 703
@@ -502,7 +490,6 @@ html , xmlns:expr 471
 html , xmlns:data 471
 table , valign 470
 div , " 458
-col , / 454
 html , xmlns:dc 453
 dt , id 452
 aside , role 451
@@ -582,7 +569,6 @@ nav , style 350
 ul , itemtype 349
 g , fill-rule 347
 div , data-rel 347
-span , / 347
 g , stroke-width 347
 ins , data-ad-format 347
 g , stroke 347
@@ -617,7 +603,6 @@ p , itemtype 312
 textarea , aria-required 311
 button , href 309
 div , aria-label 308
-p , / 307
 div , data-parsely-site 307
 body , bottommargin 305
 img , property 305
@@ -656,7 +641,6 @@ div , data-lat 274
 div , data-target 274
 a , data-name 273
 div , addthis:title 273
-embed , / 273
 div , data-analytics 271
 a , data-bind 270
 input , role 270
@@ -998,7 +982,6 @@ div , aria-relevant 134
 th , height 134
 html , style 133
 div , data-device 133
-polygon , / 133
 ul , data-view 133
 li , data-name 132
 div , data-linktarget 132
@@ -1038,13 +1021,11 @@ body , onclick 122
 var , class 122
 input , data-default 122
 span , data-key 122
-source , / 121
 td , itemtype 121
 div , data-host 121
 li , data-val 121
 span , align 121
 a , align 121
-image , / 120
 select , required 120
 div , value 119
 form , data-imodoptions 119
@@ -1099,7 +1080,6 @@ select , data-placeholder 112
 span , data-dsqidentifier 111
 ul , data-dropdown-content 111
 span , data-target 111
-form , / 111
 div , data-version 111
 div , data-tracker 111
 div , data-questionid 110
@@ -1385,7 +1365,6 @@ ins , data-tag-type 87
 video , poster 87
 dd , title 87
 main , itemscope 87
-td , / 86
 div , data-loaded 86
 li , ng-cloak 86
 div , data-iscentered 86
@@ -1404,14 +1383,12 @@ li , data-expires 85
 input , step 85
 input , data-type 85
 a , download 84
-rect , / 84
 div , onlyformepart 84
 h1 , xmlns:i18n 84
 path , id 84
 li , data-no-panel 84
 a , data-no-panel 84
 a , data-canonical 84
-li , / 84
 input , autocapitalization 84
 a , data-language 84
 span , data-media 83
@@ -1445,7 +1422,6 @@ a , item_file 81
 ul , data-bind 81
 div , data-item 81
 button , aria-haspopup 81
-button , / 81
 div , data-spy 81
 img , data-lazy-src 81
 marquee , direction 81
@@ -1677,7 +1653,6 @@ a , data-mobile 65
 img , data-zoom-image 65
 nav , data-role 65
 a , of 65
-svg , / 65
 a , data-event-action 65
 a , data-service 65
 div , symbol 65
@@ -1828,7 +1803,6 @@ input , data-mobile-placeholder 58
 img , for 58
 a , _sp 58
 canvas , height 58
-ul , / 58
 marquee , onmouseover 58
 div , data-gmiclass 58
 ol , itemscope 58
@@ -1980,7 +1954,6 @@ div , data-targeting 53
 img , data-asset-url 53
 img , data-chomp-id 53
 input , data-toggle 53
-iframe , / 53
 a , data-parsely-site 53
 address , itemscope 53
 div , data-group 53
@@ -2046,7 +2019,6 @@ figcaption , style 50
 a , data-group 50
 div , data-widget-type 50
 button , data-parent 50
-circle , / 50
 a , data-nid 50
 span , data-widget-tooltip-delay 50
 div , data-search-query 50
@@ -2205,7 +2177,6 @@ img , stock.<br 47
 a , data-submenu-id 47
 div , data-range 47
 div , pagetype 47
-option , / 47
 div , data-end 47
 button , data-facebook-thumbnail-image 47
 div , data-scroll-top-msg 47
@@ -2306,7 +2277,6 @@ li , data-toggle 44
 ul , section 44
 textarea , autocomplete 44
 li , data-chapterid 44
-wbr , / 44
 form , onkeypress 44
 span , data-filter 44
 meta , for 44
@@ -2412,7 +2382,6 @@ button , data-style 41
 a , your 41
 div , <div 41
 li , data-search-type 41
-line , / 41
 div , _sp 41
 td , cellpadding 41
 div , listprice 41
@@ -2998,7 +2967,6 @@ span , data-original-title 31
 input , lang 31
 section , data-bind 31
 input , expression 31
-frame , / 31
 li , data-video-ids 31
 body , ondragstart 31
 a , data-ytid 31
@@ -3447,12 +3415,10 @@ line , stroke-miterlimit 25
 p , href 25
 button , accesskey 25
 img , by 25
-use , / 25
 div , author 25
 button , aria-disabled 25
 a , data-ga-event-click 25
 div , data-cycle-carousel-visible 25
-i , / 25
 meta , initial-scale 25
 a , data-alias 25
 div , aria-disabled 25
@@ -3684,7 +3650,6 @@ span , data-tracking 23
 rect , clip-rule 23
 a , data-nodeid 23
 div , && 23
-html , / 23
 html , xmlns:g 23
 a , data-content-weather 23
 span , data-bn-widget-name 23
@@ -4234,7 +4199,6 @@ div , data-comparetitle 20
 a , data-tag-name 20
 a , data-dmc 20
 div , data-dmc 20
-font , / 20
 li , data-catid 20
 br , data-reactid 20
 body , data-mediavoice-property-id 20
@@ -4457,7 +4421,6 @@ p , data-mini-cart-empty 18
 div , data-vmgs-element 18
 li , drop-down 18
 table , valigh 18
-legend , / 18
 a , college 18
 ul , ng-if 18
 h3 , rel 18
@@ -4919,7 +4882,6 @@ input , cols 16
 textarea , html 16
 div , data-ad-height 16
 a , data-dojo-attach-point 16
-textarea , / 16
 div , data-starttime 16
 select , your 16
 span , data-glb-convertelement 16
@@ -5456,7 +5418,6 @@ div , data-uuid 14
 a , data-checkout-url 14
 div , mw_keep 14
 figure , data-height 14
-select , / 14
 a , data-ga-click 14
 a , utility 14
 div , data-fallback 14
@@ -5487,7 +5448,6 @@ input , data-dropdown 14
 div , adsize 14
 div , data-form-view 14
 div , publisherid 14
-stop , / 14
 a , data-search-popover-action 14
 div , data-append 14
 div , data-requestid 14
@@ -5700,7 +5660,6 @@ option , dir 13
 img , intent 13
 input , data-search-by-course 13
 a , data-max 13
-table , / 13
 img , smilieid 13
 form , data-global-search-url 13
 body , onscroll 13
@@ -5750,7 +5709,6 @@ div , data-entity-name 13
 a , data-language-key 13
 div , data-yahoo-ad-search-options 13
 img , data-ng-attr-alt 13
-body , / 13
 h2 , data-ng-bind 13
 div , data-make 13
 body , data-page-url-part 13
@@ -5910,7 +5868,6 @@ div , data-pinned 13
 a , data-sportabbrev 13
 input , responsys 13
 body , data-ng-app 13
-else , / 13
 div , data-hide-no-mentions 13
 div , data-ssid 13
 ul , data-ajax-url 13
@@ -6263,7 +6220,6 @@ button , data-open-text 12
 html , enableviewstate 12
 a , 'clipped'}[corsican.options 12
 a , data-season-id 12
-label , / 12
 img , ondragstart 12
 a , ga-evt-action 12
 div , lightboxtitle 12
@@ -6592,7 +6548,6 @@ div , data-dept 12
 li , data-boomtrain_model 12
 small , itemprop 12
 a , data-ng-attr-rel 12
-th , / 12
 button , data-cm-workid 12
 img , tcdl:type 12
 img , al," 12
@@ -7818,7 +7773,6 @@ li , ct 10
 div , xml:base 10
 a , data-sitetouse 10
 li , section 10
-strong , / 10
 input , form-area 10
 li , border 10
 header , in-at8units-class 10
@@ -8173,7 +8127,6 @@ div , data-size-tablet_640px 9
 input , scrolling 9
 input , defvalue 9
 div , data-impression 9
-polyline , / 9
 div , ajax-loading-spinner 9
 div , vote-count 9
 div , content-id 9
@@ -8507,7 +8460,6 @@ button , data-source-interest-id 9
 meta , data-name 9
 a , data-ob 9
 div , data-draggable 9
-fegaussianblur , / 9
 input , data-canonic 9
 a , data-submit-button 9
 img , data-simelink 9
@@ -9016,7 +8968,6 @@ div , marketid 8
 polyline , fill 8
 input , ng-cloak 8
 img , rel1 8
-inpu , / 8
 a , data-product-code 8
 a , was 8
 span , data-user_xid 8
@@ -9728,7 +9679,6 @@ div , data-wijax-varname 8
 img , defersrc 8
 li , data-et-location 8
 li , data-asseturl 8
-script , / 8
 li , data-content-title 8
 a , data-init 8
 a , data-refinement-dimrank 8
@@ -10696,7 +10646,6 @@ div , placeholder 7
 div , mptrackuri 7
 option , type 7
 div , xmlns:geohwfuncts 7
-section , / 7
 font , geneva 7
 div , origindisplay 7
 li , data-mfg-package 7
@@ -12744,7 +12693,6 @@ div , data-unique-id 5
 a , data-ls 5
 a , data-google-name 5
 xiframe , style 5
-designertempnode , / 5
 span , data-querystring 5
 input , data-current-category 5
 td , background-color:none; 5
@@ -13158,7 +13106,6 @@ span , cmcurrcntry 5
 div , data-config-video-id 5
 div , data-set-oldest 5
 form , data-reload-url 5
-lm , / 5
 div , data-cnetpagetypeid 5
 a , openid_login('facebook', 5
 button , data-sharetype 5
@@ -13777,7 +13724,6 @@ div , data-copyright 5
 div , data-rateit-min 5
 div , windowwidth 5
 div , data-look-id 5
-animatetransform , / 5
 img , high 5
 span , face 5
 a , data-filterid 5
@@ -14292,7 +14238,6 @@ a , data-addthis-servicename 5
 figure , data-list-id 5
 a , data-ca-view-id 5
 div , data-sorter 5
-tr , / 5
 span , data-mz-role 5
 a , 'return_url 5
 span , data-user 5
@@ -18457,7 +18402,6 @@ form , data-ajaxform 3
 div , data-popmake 3
 div , data-viewselector 3
 figure , data-full-img 3
-h2 , / 3
 a , {9} 3
 section , onmouseout 3
 li , data-cgid 3
@@ -18743,7 +18687,6 @@ li , yearid 3
 div , data-gameid 3
 a , data-mp3 3
 a , data-tracking-title 3
-header , / 3
 img , nbsp;performance 3
 input , hidden/ 3
 div , data-full-image 3
@@ -19387,7 +19330,6 @@ body , data-isinfinite 3
 a , keywordid 3
 img , #29' 3
 input , data-user 3
-nav , / 3
 span , partnumb 3
 a , series 3
 aside , aria-label 3
@@ -19519,10 +19461,8 @@ div , gi-datepicker 3
 span , data-qty-input 3
 tr , data-context-index 3
 a , christmas 3
-h1 , / 3
 a , data-evt-category 3
 ul , infinite-scroll-disabled 3
-spacer , / 3
 div , data-dealtype 3
 xml , class 3
 input , data-search-tab-default 3
@@ -20607,7 +20547,6 @@ a , atype 3
 product , leadtimedescription 3
 span , data-omn-type 3
 a , data-ctid 3
-cmcache , / 3
 meta , look 3
 div , data-ad-contenttype 3
 form , data-ng-controller 3
@@ -21104,7 +21043,6 @@ i , data-series-variable 3
 li , data-ytrk 3
 div , data-carousel-styler 3
 input , data-printselector 3
-h3 , / 3
 img , data-dpr-xlarge-image-url 3
 p , xmlns:dc 3
 div , data-show-when-visible 3
@@ -22832,7 +22770,6 @@ img , die 2
 li , zimg-modal 2
 div , data-symbol-bft 2
 a , #43' 2
-sitedomain , / 2
 div , suggestions-location 2
 body , data-topic 2
 figure , data-shortcode 2
@@ -24091,7 +24028,6 @@ meta , con 2
 div , co-legend-rid 2
 div , data-conditional-content 2
 img , data-deferredsrc 2
-animate , / 2
 a , trade 2
 img , certification” 2
 a , data-dim_id 2
@@ -24488,7 +24424,6 @@ a , data-dept 2
 input , ccid 2
 div , data-markup-type 2
 input , data-attribute 2
-dd , / 2
 option , pnum 2
 a , data-font-family 2
 ul , data-page 2
@@ -24815,7 +24750,6 @@ a , data-num 2
 progress , class 2
 img , data-zoomedimageformat 2
 a , data-lineid 2
-uses , / 2
 meta , page 2
 hgroup , role 2
 body , data-search-form-url 2
@@ -26915,7 +26849,6 @@ img , 2012 2
 a , data-filter-anchor 2
 div , data-lt 2
 meta , este 2
-cobrandsitedomain , / 2
 area , ref 2
 meta , sun 2
 div , data-max-num-of-compare-schools 2
@@ -27659,7 +27592,6 @@ tr , data-library 2
 a , &lt;span 2
 span , data-num-of-schools-found 2
 img , dual 2
-article , / 2
 div , data-current-text 2
 meta , safety 2
 div , data-musicianname 2
@@ -27734,7 +27666,6 @@ div , null 2
 a , 11') 2
 a , ginobili 2
 a , analytics-category 2
-set , / 2
 div , data-expand-image 2
 ul , data-show-contact-admin-form 2
 a , speed 2
@@ -28675,7 +28606,6 @@ input , data-has-additional-page 2
 img , si 2
 img , st 2
 select , data-behat 2
-video , / 2
 a , 20271 2
 div , category-reviews 2
 a , static-enlargement 2
@@ -28788,7 +28718,6 @@ div , data-whatsprev 2
 div , sogiobjid 2
 div , data-module-template 2
 a , 20282 2
-pinterest , / 2
 b , xmlns 2
 div , data-lib_root 2
 li , data-match 2
@@ -29710,7 +29639,6 @@ a , data-ishero 2
 meta , gaming 2
 div , data-thumbnail-height 2
 div , data-contest-human-id 2
-endform , / 2
 div , data-lazy-href 2
 strong , data-content 2
 article , data-contextual 2
@@ -30324,7 +30252,6 @@ a , tim 1
 div , data-taxonomia 1
 hgroup , data-region-name 1
 a , {'new' 1
-hint , / 1
 meta , multi-period 1
 img , bowl 1
 a , sweepstakes 1
@@ -31662,7 +31589,6 @@ div , contentstatus 1
 meta , microscopy 1
 div , alarm 1
 button , validationgroup 1
-category , / 1
 a , data-ipsdialog-remotesubmit 1
 meta , polygamma[<i 1
 a , itemtypeid 1
@@ -31720,7 +31646,6 @@ img , lock, 1
 l , 12 1
 img , hedwig 1
 form , data-depart-time 1
-city , / 1
 p , shelf" 1
 a , fpopwidth 1
 meta , seeing.""/ 1
@@ -31947,7 +31872,6 @@ a , /images/crazyshirts/en_us/global/globalnav/dhtmlmenu/sum-2014/ro-womens-04-2
 input , data-nlurl 1
 a , (link.href.indexof('?') 1
 li , data-tables-item 1
-website , / 1
 a , data-oksizes 1
 a , derrick 1
 iframe , marginborder 1
@@ -32623,7 +32547,6 @@ body , data-signing-up-user 1
 a , overalls" 1
 a , htmlgrp 1
 li , police 1
-abbr , / 1
 option , data-operator 1
 span , data-usfpushdata 1
 input , lee, 1
@@ -33157,7 +33080,6 @@ li , arial-label 1
 td , graytext" 1
 span , data-vendor-state 1
 div , data-styled-select 1
-track , / 1
 meta , unmarried 1
 div , m-ajax-toggle 1
 l , war 1
@@ -35563,7 +35485,6 @@ a , "youtube", 1
 div , data-deeplinking 1
 a , crew' 1
 div , data-paging-max 1
-imagedata , / 1
 meta , built 1
 article , data-avatars 1
 a , 24996 1
@@ -36539,7 +36460,6 @@ div , data-list-toggle 1
 div , data-twitterauthor 1
 img , toronto: 1
 a , join, 1
-vline , / 1
 input , data-width-expanded 1
 a , '4745908', 1
 a , scratch<br 1
@@ -37767,7 +37687,6 @@ div , data-_block 1
 img , villas' 1
 div , encodedconfigstatestring 1
 div , data-nlid 1
-docimage , / 1
 img , grease"" 1
 meta , ind. 1
 div , data-layout-mode 1
@@ -38076,7 +37995,6 @@ csltb , content 1
 span , office 1
 a , ishida 1
 meta , footwear/ 1
-shape , / 1
 div , data-tospin 1
 a , pants' 1
 img , candy 1
@@ -38410,7 +38328,6 @@ a , '5004317', 1
 a , data-cim-tooltip-template 1
 div , room-number 1
 span , sleeves 1
-include , / 1
 input , data-saveurl 1
 button , data-cmconvtag 1
 li , data-playlistid 1
@@ -38520,7 +38437,6 @@ input , data-param-q 1
 a , data-omnilink 1
 meta , surje 1
 div , viewcssclass 1
-time , / 1
 div , data-rotate 1
 img , images)\" 1
 a , development"}' 1
@@ -40305,7 +40221,6 @@ input , data-length 1
 meta , para 1
 td , data-omniture-role 1
 span , well-furnished 1
-xsubscribeblockx , / 1
 a , public 1
 riohmond , held 1
 a , coat'class 1
@@ -42887,7 +42802,6 @@ link , installing 1
 input , qty 1
 a , ikiml 1
 img , selection 1
-add , / 1
 meta , ever"" 1
 img , $r 1
 a , data-manage 1
@@ -43451,7 +43365,6 @@ img , 1972 1
 a , conservation 1
 a , elder 1
 img , worth 1
-b , / 1
 li , data-nmbairro 1
 a , /images/crazyshirts/en_us/global/globalnav/dhtmlmenu/04-10-13/ro-mens-04-2013-hemp-v1.jpg\" 1
 meta , interested 1
@@ -43931,7 +43844,6 @@ area , data-pin 1
 html , xmlns:x2 1
 html , tabindex 1
 img , single 1
-ol , / 1
 a , two-year 1
 div , data-virtualsite 1
 img , "alt":"'capflag' 1
@@ -44578,7 +44490,6 @@ div , data-detached-dropdown-location 1
 div , data-gatekeeper-sign-in-ribbon-text 1
 img , wp-image-1143\" 1
 a , data-banner-src 1
-msprm , / 1
 div , xmlns:l1 1
 textarea , data-errormessage-atleastone 1
 span , data-factorydescription 1
@@ -44794,7 +44705,6 @@ span , inner 1
 embed , codebase 1
 nav , data-append-element 1
 a , tt-class 1
-dataobject , / 1
 a , data-twitter-count 1
 div , share_type 1
 a , data-kommentar_user_profile_url 1
@@ -45351,7 +45261,6 @@ a , data-confirmclass 1
 span , data-share_url 1
 div , data-vx-accordion 1
 img , anthony 1
-mspace , / 1
 div , data-hide-posttv-overlay-buttons 1
 a , innovations 1
 img , blog" 1
@@ -47322,7 +47231,6 @@ a , data-nst-log 1
 span , daughter 1
 span , clss 1
 input , x-lic-location:america/los_angeles 1
-suntimes , / 1
 img , positivo 1
 img , 5-shelf 1
 li , (eapcco), 1
@@ -47506,7 +47414,6 @@ h1 , xmlns:fb 1
 meta , 18"d" 1
 img , bafang:&nbsp;&nbsp;3.1 1
 wept , small 1
-place , / 1
 input , slug 1
 form , "checkwildcard": 1
 riohmond , milee 1
@@ -48327,7 +48234,6 @@ img , ר 1
 td , sizcache 1
 meta , stock 1
 a , welding" 1
-center , / 1
 input , ελληνικό 1
 li , that 1
 td , background-repeat:no-repeat; 1
@@ -49094,7 +49000,6 @@ acronym , lang 1
 meta , if" 1
 a , /images/crazyshirts/en_us/global/globalnav/dhtmlmenu/spring2015/ro-kids-spring2015-boys.jpg\" 1
 img , width"185" 1
-moduleprefs , / 1
 input , data-disablemymodelstogglesection 1
 tr , lipids-0" 1
 div , (kenta 1
@@ -50152,7 +50057,6 @@ meta , women" 1
 a , power. 1
 img , ryan 1
 a , 25214 1
-audio , / 1
 img , vlalign 1
 a , lady 1
 img , bedroom 1
@@ -52109,7 +52013,6 @@ l , member^ 1
 iscript , src 1
 l , membera 1
 l , members 1
-ad , / 1
 div , data-pb-content-editable 1
 div , data-global-nav 1
 ul , menu-level 1
@@ -52999,7 +52902,6 @@ div , use</li 1
 von , villanova 1
 body , data-skin-link 1
 a , "s" 1
-object , / 1
 input , data-validate-trigger 1
 table , data-tablesaw-mode-switch 1
 a , hrer 1
@@ -54771,7 +54673,6 @@ img , alec 1
 a , 'powerpoint/smartboard 1
 div , e-giftcard.aspx? 1
 csobj , cl 1
-ilayer , / 1
 a , gap 1
 a , data-orig-height 1
 noscript , ' 1
@@ -56402,7 +56303,6 @@ a , questions 1
 span , don’t 1
 input , data-image-url 1
 a , http:\/\/probasketballtalk.nbcsports.com\/2013\/05\/06\/report-hawks-coach-drew-staff-expecting-to-be-let-go\/\" 1
-block , / 1
 img , background 1
 img , "hires":""}'/ 1
 link , xmlns:__designer 1
@@ -56826,7 +56726,6 @@ a , data-replyto 1
 all , although 1
 img , 1002-m-5641' 1
 li , </ol 1
-ellipse , / 1
 l , recording 1
 div , data-nome-cidade 1
 a , nomad" 1
@@ -57018,7 +56917,6 @@ div , gmi-group 1
 a , lloyd 1
 body , data-speed 1
 a , wrc-processed 1
-em , / 1
 a , 20655 1
 div , data-overlay-title 1
 div , embedfulltext 1
@@ -57059,7 +56957,6 @@ img , denmark 1
 div , (flute, 1
 meta , x1 1
 html , dovetail&quot;,&quot;colorswatchurl&quot;:&quot;//s002.osstatic.net/s/jctr/store/productimages/colors/1734_heather_dovetail_l_sw.gif&quot;,&quot;classname&quot;:&quot;h-e-a-t-h-e-r-d-o-v-e-t-a-i-l&quot;},{&quot;colorname&quot;:&quot;heather 1
-location , / 1
 a , callback 1
 a , '4617233', 1
 a , size__2t" 1
@@ -59404,7 +59301,6 @@ html , apparel&quot;,&quot;distinctsizenames&quot;:[&quot;4&quot;,&quot;4/6&quot
 cite , data-comment-id 1
 a , data-metrics-concentraid 1
 all , fubftantial 1
-basefont , / 1
 p , data-click-tracking 1
 l , commit¬ 1
 em , data-listing-attr-cond 1
@@ -60662,7 +60558,6 @@ meta , parent 1
 section , data-league-id 1
 table , autogeneratecolumns 1
 div , connections 1
-break , / 1
 input , african 1
 div , data-brand-id 1
 a , data-sf-field 1
@@ -60931,7 +60826,6 @@ meta , stagnation, 1
 span , choreography 1
 use , style 1
 option , data-url-path 1
-tradeit , / 1
 riohmond , c., 1
 label , lochy 1
 select , data-odds 1
@@ -61805,7 +61699,6 @@ div , data-video-carousel-content 1
 a , data-product-slug 1
 div , data-report-post-form 1
 div , releasedate 1
-colgroup , / 1
 div , data-selected-scoring-period 1
 span , data-xlarge-src 1
 riohmond , auditorium 1
